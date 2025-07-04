@@ -1,0 +1,7 @@
+C:\Users\brand\source\repos\tmp2azapp\learningapp\bin\Publish\learningapp.exe
+C:\Users\brand\source\repos\tmp2azapp\learningapp\bin\Publish\appsettings.Development.json
+C:\Users\brand\source\repos\tmp2azapp\learningapp\bin\Publish\appsettings.json
+C:\Users\brand\source\repos\tmp2azapp\learningapp\bin\Publish\learningapp.dll
+C:\Users\brand\source\repos\tmp2azapp\learningapp\bin\Publish\learningapp.deps.json
+C:\Users\brand\source\repos\tmp2azapp\learningapp\bin\Publish\learningapp.runtimeconfig.json
+C:\Users\brand\source\repos\tmp2azapp\learningapp\bin\Publish\learningapp.pdb
